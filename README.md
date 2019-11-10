@@ -6,6 +6,7 @@ Dentro do pacote config
 
 @Configuration
 @EnableWebSecurity
+
 public class OAuthSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Bean
